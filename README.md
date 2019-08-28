@@ -2,11 +2,11 @@ React Recepie Search App
 
 1st Screenshot
 
-![Screenshot](./public/Screen Shot 2019-08-28 at 4.51.21 PM.png)
+![Screenshot](/public/Screen Shot 2019-08-28 at 4.51.21 PM.png)
 
 2nd Screenshot
 
-![Screenshot](./public/Screen Shot 2019-08-28 at 4.51.30 PM.png)
+![Screenshot](/public/Screen Shot 2019-08-28 at 4.51.30 PM.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
