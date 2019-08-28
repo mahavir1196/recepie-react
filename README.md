@@ -1,10 +1,10 @@
-#React Recepie Search App
+# React Recepie Search App
 
-###1st Screenshot
+### 1st Screenshot
 
 ![Screenshot](./public/screen1.png)
 
-###2nd Screenshot
+### 2nd Screenshot
 
 ![Screenshot](./public/screen2.png)
 
