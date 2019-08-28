@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import { async } from "q";
 import Recepie from "./Recepie.js";
 
 function App() {
